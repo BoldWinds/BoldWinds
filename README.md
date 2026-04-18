@@ -14,7 +14,7 @@ I am currently seeking opportunities in **AI Infrastructure**, with a focus on:
 
 ## Publication
 
-### [HRPF: A parallel programming framework for recursive algorithms on heterogeneous CPU–GPU systems](#)
+### [HRPF: A parallel programming framework for recursive algorithms on heterogeneous CPU–GPU systems](https://www.sciencedirect.com/science/article/pii/S0167819126000050)
 Wang, Yizhuo, **Bowen Liu**, Senhao Shao, Jianhua Gao, Weixing Ji, and Hongbo Xing. "HRPF: A parallel programming framework for recursive algorithms on heterogeneous CPU–GPU systems." Parallel Computing (2026): 103187.
 
 A heterogeneous recursive programming framework for efficient execution of recursive algorithms on CPU-GPU systems.
